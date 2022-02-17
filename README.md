@@ -2,8 +2,11 @@
 Bookmark collections
 
 Web sites:
+
 https://www.alfredapp.com/
+
 https://www.adminer.org/en/phpmyadmin/
+
 https://www.wireguard.com/
 https://inteltechniques.com/links.html
 https://keepassxc.org/screenshots/
