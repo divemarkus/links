@@ -24,3 +24,7 @@
 - https://zsecurity.org/
 - https://www.linuxbabe.com/
 
+### Once "beagledeltasix" accepts invite to collaborate, add some stuff here:
+
+#### This is only test purposes
+
